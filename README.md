@@ -11,6 +11,7 @@ Sped up content delivery using AWS’s content distribution network service, Clo
 Accessed the website in a browser using the unique CloudFront endpoint.
 
 Prerequisites:
+
 AWS Account
 
 Student-ready/udacity-starter website - Download and unzip this file.
@@ -18,6 +19,7 @@ Student-ready/udacity-starter website - Download and unzip this file.
 DEPENDENCIES
 
 Cloud Services:
+
 Amazon Web Services S3 - Resource hosting and deployments
 AWS CloudFront - CDN for SPA
 AWS EKS - Backend API
@@ -25,6 +27,7 @@ AWS DynamoDB - Persistent Datastore
 AWS Cognito - User Authentication
 
 Performance Tracking and DevOps Tools:
+
 AWS CloudWatch - Performance and Health checks
 Sentry - Bug Reporting
 Alternates:
@@ -37,5 +40,6 @@ Mixpanel
 Travis (CI/CD)
 
 Frameworks:
+
 Ionic (Javascript) (Frontend)
 Node.js (Javascript) (Backend)
