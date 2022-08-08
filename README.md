@@ -12,7 +12,8 @@ Accessed the website in a browser using the unique CloudFront endpoint.
 
 Prerequisites:
 AWS Account
-Student-ready starter code - Download and unzip this file.
+
+Student-ready/udacity-starter website - Download and unzip this file.
 
 DEPENDENCIES
 
